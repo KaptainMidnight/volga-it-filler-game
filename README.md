@@ -1,13 +1,13 @@
 ## Установка (Docker)
 ```
-git clone 
+git clone https://github.com/KaptainMidnight/volga-it-filler-game
 docker-compose up --build
 ```
 http://127.0.0.1:8000/
 
 ## Установка локально
 ```
-git clone
+git clone https://github.com/KaptainMidnight/volga-it-filler-game
 cd 7-colors-game
 composer install
 cp .env.example .env
